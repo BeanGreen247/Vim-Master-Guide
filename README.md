@@ -42,5 +42,7 @@ https://duckduckgo.com/?q=vim+addons+web+browser&t=ffab&atb=v1-1&ia=web
 # Step 3: 
 Learn more about vim. You will only have scratched the surface with vimtutor. You can read about tips and tricks on [StackOverflow](https://stackoverflow.com/search?q=vim+tips) . You can browse vimtips. Learn a litle often would be my advice - there is so much out there that sticking to bite-size chunks will be the best way to make the knowledge stick.
 
+You can also use my [Vim Cheat Sheet](https://github.com/BeanGreen247/Vim-Cheat-Sheet#vim-cheat-sheet) if you want to.
+
 # Step 4: 
 Flex and Profit :)
