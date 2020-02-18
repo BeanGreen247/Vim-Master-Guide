@@ -22,6 +22,8 @@ https://www.how-to-type.com/typing-practice/programming/
 
 https://www.typing.com/student/lessons
 
+https://www.tipp10.com/en/
+
 # Step 1: 
 Use vimtutor to get you started. It is in gvim (under the help menu I think) or you can just type 'vimtutor' at the command line. It will take 30-45 minutes of your time and then your fingers will know the basics of vi/vim and you should be able to edit files without wanting to hurl your keyboard out of the window.
 
